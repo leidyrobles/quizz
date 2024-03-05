@@ -1,0 +1,158 @@
+*{
+    box-sizing: border-box;
+}
+
+
+
+h1 {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 5vh;
+
+  }
+  
+.caja1 {
+    background-color: #f5e132;
+    height: 10vh;
+}
+
+    
+.caja2 {
+    background-color: #2d0b40;
+    height: 10vh;
+}
+
+.caja3 {
+    background-color: #9c49cc;
+    height: 10vh;
+}
+
+.caja4 {
+    background-color: #b18d2c;
+    height: 10vh;
+}
+
+.caja5 {
+    background-color: #8137f7;
+    height: 80vh;
+}
+
+.caja6 {
+    background-color: #f5e132;
+    height: 25vh;
+}
+
+.caja7 {
+    background-color: #2d0b40;
+    height: 25vh;
+}
+
+.caja8 {
+    background-color: #9c49cc;
+    height: 25vh;
+}
+
+.caja9 {
+    background-color: #0daef8;
+    height: 35vh;
+}
+
+.caja10 {
+    background-color: #9c49cc;
+    height: 35vh;
+}
+
+.caja11 {
+    background-color: #8137f7;
+    height: 35vh;
+}
+
+.caja12 {
+    background-color: #f5e132;
+    height: 35vh;
+}
+
+.caja13 {
+    background-color: #8137f7;
+    height: 35vh;
+}
+
+.caja14 {
+    background-color: #2d0b40;
+    height: 35vh;
+}
+
+
+
+
+
+
+
+.caja15 {
+    background-color: #f5e132;
+    height: 15vh;
+}
+
+.caja16 {
+    background-color: #2d0b40;
+    height: 15vh;
+}
+
+.caja17 {
+    background-color: #8137f7;
+    height: 15vh;
+}
+
+.caja18 {
+    background-color: #0daef8;
+    height: 15vh;
+    padding: 0;
+}
+
+.caja19 {
+    background-color: #8137f7;
+    height: 15vh;
+}
+
+.caja20 {
+    background-color: #0daef8;
+    height: 15vh;
+}
+
+.caja21 {
+    background-color: #2d0b40;
+    height: 15vh;
+}
+
+.caja22 {
+    background-color: #f5e132;
+    height: 15vh;
+}
+
+
+
+
+.caja23 {
+    background-color: #0daef8;
+    height: 15vh;
+}
+
+.caja24 {
+    background-color: #f5e132;
+    height: 15vh;
+}
+
+.caja25 {
+    background-color: #8137f7;
+    height: 15vh;
+}
+
+.caja26 {
+    background-color: #2d0b40;
+    height: 10vh;
+}
+.caja27 {
+    background-color: #0daef8;
+    height: 10vh;
+}
